@@ -86,7 +86,6 @@ Modeling.html
 ## 🎓 Academic Information
 
 - **Course:** Modeling & Simulation
-- **Assignment:** Assignment 1
 
 ---
 
