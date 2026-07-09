@@ -194,15 +194,15 @@
                     }
                 }
 
-                static Compute_Statestics() {
+                static Compute_Statistics() {
                     let sumforWatitingtime = 0, sumforserveicetime = 0;
                     for (let i = 0; i < this.Simulation_Length; i++) {
                         sumforWatitingtime += this.customers[i].Waiting_Time;
                         sumforserveicetime += this.customers[i].Service_Time;
                     }
-                    const average_Watitng_Time = sumforWatitingtime / this.Simulation_Length;
+                    const average_Waiting_Time = sumforWatitingtime / this.Simulation_Length;
                     const average_service_time = sumforserveicetime / this.Simulation_Length;
-                    return `The average Waiting time: ${average_Watitng_Time}<br>The average service time: ${average_service_time}`;
+                    return `The average Waiting time: ${average_Waiting_Time}<br>The average service time: ${average_service_time}`;
                 }
             }
 
@@ -211,7 +211,7 @@
             Header.innerHTML = "Queueing Simulation";
             output1.innerHTML = "";
             output1.innerHTML += Single_Server_Simulation.Print_Simulation_Table();
-            output1.innerHTML += Single_Server_Simulation.Compute_Statestics();
+            output1.innerHTML += Single_Server_Simulation.Compute_Statistics();
         });
         document.getElementById("Project2").addEventListener("click", function () {
             document.getElementById("Output1").style.display = "none";
