@@ -78,7 +78,7 @@ Modeling.html
 
 - Amr Sadek Mostafa
 - Ahmed Hossameldin Abdelrauf
-- Ahmed Mohamed Ahmed Eldemiry
+- Ahmed Mohamed Ahmed Eldemir
 - Mostafa Tarek Ibrahim Ibrahim
 
 ---
