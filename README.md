@@ -76,10 +76,10 @@ Modeling.html
 
 ## 👥 Team Members
 
-- Amr Sadek Mostafa
-- Ahmed Hossameldin Abdelrauf
-- Ahmed Mohamed Ahmed Eldemiry
-- Mostafa Tarek Ibrahim Ibrahim
+- [Amr Sadek Mostafa](https://github.com/Amr-Sadek)
+- [Ahmed Hossameldin Abdelrauf](https://github.com/Eng-Ahmed-HossamEldin)
+- [Ahmed Mohamed Ahmed Eldemiry](https://github.com/AhmedMohamedAhmedEldemiry)
+- [Mostafa Tarek Ibrahim Ibrahim](https://github.com/USERNAME4)
 
 ---
 
