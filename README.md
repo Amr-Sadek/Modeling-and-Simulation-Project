@@ -79,7 +79,7 @@ Modeling.html
 - [Amr Sadek Mostafa](https://github.com/Amr-Sadek)
 - [Ahmed Hossameldin Abdelrauf](https://github.com/Eng-Ahmed-HossamEldin)
 - [Ahmed Mohamed Ahmed Eldemiry](https://github.com/AhmedMohamedAhmedEldemiry)
-- [Mostafa Tarek Ibrahim Ibrahim]
+- Mostafa Tarek Ibrahim Ibrahim
 
 ---
 
